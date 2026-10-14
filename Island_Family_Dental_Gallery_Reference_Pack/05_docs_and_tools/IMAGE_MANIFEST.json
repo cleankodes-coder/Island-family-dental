@@ -1,0 +1,1448 @@
+{
+  "package": "Island Family Dental SCREENSHOT REFERENCE pack",
+  "original_website_photo_count": 0,
+  "screenshot_derived_thumbnail_count": 76,
+  "disclaimer": "References are derived only from user-provided screenshots, not original downloadable media; no third-party permissions claimed.",
+  "assets": [
+    {
+      "file": "01_brand_reference/ifd_facebook_cover_SCREENSHOT.jpg",
+      "pixel_size": [
+        832,
+        471
+      ],
+      "source": "image(20261014-164420).png",
+      "source_crop_box": [
+        172,
+        75,
+        1004,
+        546
+      ],
+      "kind": "brand-reference",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Screenshot crop. The original business logo/cover source file was not available; obtain permission for actual website use."
+    },
+    {
+      "file": "01_brand_reference/ifd_facebook_profile_logo_SCREENSHOT.jpg",
+      "pixel_size": [
+        171,
+        196
+      ],
+      "source": "image(20261014-164420).png",
+      "source_crop_box": [
+        322,
+        588,
+        493,
+        784
+      ],
+      "kind": "brand-reference",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Screenshot crop; may contain social media online indicator; NOT original logo file."
+    },
+    {
+      "file": "01_brand_reference/ifd_instagram_logo_post_SCREENSHOT.jpg",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        397,
+        451,
+        489,
+        544
+      ],
+      "kind": "brand-reference",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Very low-resolution Instagram-grid screenshot crop, not original brand asset."
+    },
+    {
+      "file": "02_exterior_reference/google_maps_exterior_SCREENSHOT.jpg",
+      "pixel_size": [
+        221,
+        133
+      ],
+      "source": "image(20261014-150138).png",
+      "source_crop_box": [
+        316,
+        17,
+        537,
+        150
+      ],
+      "kind": "exterior-reference",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Screenshot crop from provided Google Maps screenshot; NOT an original architectural photograph."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row01_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        245,
+        211,
+        338
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row01_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        245,
+        303,
+        338
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row01_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        245,
+        395,
+        338
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row01_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        245,
+        487,
+        338
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row02_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        338,
+        211,
+        431
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row02_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        338,
+        303,
+        431
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row02_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        338,
+        395,
+        431
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row02_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        338,
+        487,
+        431
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row03_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        431,
+        211,
+        524
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row03_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        431,
+        303,
+        524
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row03_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        431,
+        395,
+        524
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row03_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        431,
+        487,
+        524
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row04_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        524,
+        211,
+        617
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row04_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        524,
+        303,
+        617
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row04_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        524,
+        395,
+        617
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row04_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        524,
+        487,
+        617
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row05_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        617,
+        211,
+        710
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row05_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        617,
+        303,
+        710
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row05_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        617,
+        395,
+        710
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row05_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        617,
+        487,
+        710
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row06_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        710,
+        211,
+        803
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row06_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        710,
+        303,
+        803
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row06_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        710,
+        395,
+        803
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row06_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        710,
+        487,
+        803
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row07_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        803,
+        211,
+        896
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row07_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        803,
+        303,
+        896
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row07_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        803,
+        395,
+        896
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row07_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        803,
+        487,
+        896
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row08_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        896,
+        211,
+        989
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row08_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        896,
+        303,
+        989
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row08_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        896,
+        395,
+        989
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row08_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        896,
+        487,
+        989
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row09_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        989,
+        211,
+        1082
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row09_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        989,
+        303,
+        1082
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row09_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        989,
+        395,
+        1082
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row09_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        989,
+        487,
+        1082
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row10_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1082,
+        211,
+        1175
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row10_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1082,
+        303,
+        1175
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row10_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1082,
+        395,
+        1175
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row10_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1082,
+        487,
+        1175
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row11_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1175,
+        211,
+        1268
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row11_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1175,
+        303,
+        1268
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row11_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1175,
+        395,
+        1268
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row11_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1175,
+        487,
+        1268
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row12_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1268,
+        211,
+        1361
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row12_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1268,
+        303,
+        1361
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row12_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1268,
+        395,
+        1361
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row12_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1268,
+        487,
+        1361
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row13_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1361,
+        211,
+        1454
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row13_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1361,
+        303,
+        1454
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row13_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1361,
+        395,
+        1454
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row13_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1361,
+        487,
+        1454
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row14_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1454,
+        211,
+        1547
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row14_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1454,
+        303,
+        1547
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row14_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1454,
+        395,
+        1547
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row14_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1454,
+        487,
+        1547
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row15_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1547,
+        211,
+        1640
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row15_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1547,
+        303,
+        1640
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row15_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1547,
+        395,
+        1640
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row15_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1547,
+        487,
+        1640
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row16_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1640,
+        211,
+        1733
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row16_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1640,
+        303,
+        1733
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row16_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1640,
+        395,
+        1733
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row16_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1640,
+        487,
+        1733
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row17_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1733,
+        211,
+        1826
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row17_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1733,
+        303,
+        1826
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row17_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1733,
+        395,
+        1826
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row17_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1733,
+        487,
+        1826
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row18_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1826,
+        211,
+        1919
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row18_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1826,
+        303,
+        1919
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row18_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1826,
+        395,
+        1919
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row18_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1826,
+        487,
+        1919
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row19_col01_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        119,
+        1919,
+        211,
+        2012
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row19_col02_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        211,
+        1919,
+        303,
+        2012
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row19_col03_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        303,
+        1919,
+        395,
+        2012
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    },
+    {
+      "file": "03_instagram_post_thumbnails_REFERENCE_ONLY/instagram_row19_col04_SCREENSHOT.png",
+      "pixel_size": [
+        92,
+        93
+      ],
+      "source": "image(20261014-164343).png",
+      "source_crop_box": [
+        395,
+        1919,
+        487,
+        2012
+      ],
+      "kind": "social-post-thumbnail",
+      "original_full_resolution": false,
+      "approved_for_public_website": false,
+      "notes": "Low-resolution screenshot reference only. May depict identifiable individuals, clinical treatment or before/after cases. Do NOT publish without rights/consent."
+    }
+  ]
+}

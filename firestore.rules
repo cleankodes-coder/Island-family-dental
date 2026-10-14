@@ -1,0 +1,135 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Default deny all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isBootstrappedAdmin() {
+      return isSignedIn() &&
+        request.auth.token.email == 'cleankodes@gmail.com' &&
+        request.auth.token.email_verified == true;
+    }
+
+    function isStaff() {
+      return isSignedIn() && (
+        isBootstrappedAdmin() ||
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+      );
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // Public readable clinic information
+    match /clinicConfig/{configId} {
+      allow get, list: if true;
+      allow write: if isStaff();
+    }
+
+    match /providers/{providerId} {
+      allow get, list: if true;
+      allow write: if isStaff();
+    }
+
+    match /services/{serviceId} {
+      allow get, list: if true;
+      allow write: if isStaff();
+    }
+
+    match /weeklyShifts/{shiftId} {
+      allow get, list: if true;
+      allow write: if isStaff();
+    }
+
+    match /scheduleExceptions/{exceptionId} {
+      allow get, list: if true;
+      allow write: if isStaff();
+    }
+
+    // Bookings collection
+    match /bookings/{bookingId} {
+      // Individual get allowed so patient sees confirmation screen
+      allow get: if true;
+      // List all is restricted to staff to prevent patient data scraping
+      allow list: if isStaff();
+
+      // Creation by public must strictly be 'pending' status with bounded fields
+      allow create: if isValidId(bookingId) &&
+        incoming().keys().hasAll(['id', 'bookingReference', 'providerId', 'serviceId', 'appointmentDate', 'startTime', 'endTime', 'patientName', 'patientEmail', 'status']) &&
+        incoming().status == 'pending' &&
+        incoming().patientName is string && incoming().patientName.size() > 0 && incoming().patientName.size() <= 100 &&
+        incoming().patientEmail is string && incoming().patientEmail.size() > 0 && incoming().patientEmail.size() <= 120 &&
+        incoming().bookingReference is string && incoming().bookingReference.size() <= 20;
+
+      // Updates (confirmation, reschedule, cancellation, staff notes) restricted to staff
+      allow update: if isStaff();
+      allow delete: if isStaff();
+    }
+
+    // Slot Locks for atomicity
+    match /slotLocks/{lockId} {
+      allow get: if true;
+      allow list: if isStaff();
+      allow create, update: if isValidId(lockId) &&
+        incoming().providerId is string &&
+        incoming().appointmentDate is string &&
+        incoming().expiresAt is number;
+      allow delete: if true;
+    }
+
+    // Enquiries
+    match /enquiries/{enquiryId} {
+      allow get, list: if isStaff();
+      allow create: if isValidId(enquiryId) &&
+        incoming().keys().hasAll(['id', 'name', 'email', 'message', 'status', 'createdAt']) &&
+        incoming().status == 'new' &&
+        incoming().name is string && incoming().name.size() > 0 && incoming().name.size() <= 100 &&
+        incoming().email is string && incoming().email.size() > 0 && incoming().email.size() <= 120 &&
+        incoming().message is string && incoming().message.size() > 0 && incoming().message.size() <= 2000;
+      allow update, delete: if isStaff();
+    }
+
+    // Staff notifications
+    match /notifications/{notificationId} {
+      allow get, list: if isStaff();
+      // Public can create notifications triggered by booking/enquiry requests
+      allow create: if isValidId(notificationId) &&
+        incoming().keys().hasAll(['id', 'title', 'message', 'type', 'read', 'createdAt']) &&
+        incoming().title is string && incoming().title.size() <= 150 &&
+        incoming().message is string && incoming().message.size() <= 500;
+      allow update, delete: if isStaff();
+    }
+
+    // Admins registry
+    match /admins/{adminId} {
+      allow get: if isStaff();
+      allow list: if isStaff();
+      allow write: if isBootstrappedAdmin();
+    }
+
+    // Activity Logs
+    match /activityLogs/{logId} {
+      allow get, list: if isStaff();
+      allow create: if isStaff() && isValidId(logId) &&
+        incoming().keys().hasAll(['id', 'action', 'actorEmail', 'targetEntity', 'timestamp']) &&
+        incoming().action is string && incoming().action.size() <= 100;
+      allow update, delete: if false; // immutable audit log
+    }
+  }
+}

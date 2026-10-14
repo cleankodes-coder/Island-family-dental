@@ -1,0 +1,8 @@
+{
+  "name": "Island Family Dental — Concept Demo",
+  "description": "Private concept demo for Island Family Dental in Staten Island, NY. Synthetic booking engine, desktop operations portal, and Gemini AI receptionist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

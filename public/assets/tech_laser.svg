@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="16" fill="#F5F8FC"/>
+  <!-- Dental Laser Handpiece wand -->
+  <path d="M50 150L130 70L145 85L65 165L50 150Z" fill="#162C54" stroke="#7DAED6" stroke-width="2"/>
+  <path d="M130 70L150 50L158 58L145 85" fill="#204270"/>
+  <!-- Laser Beam Point -->
+  <circle cx="158" cy="50" r="4" fill="#7DAED6"/>
+  <line x1="158" y1="50" x2="175" y2="33" stroke="#7DAED6" stroke-width="2"/>
+  <circle cx="178" cy="30" r="8" fill="#7DAED6" fill-opacity="0.3"/>
+  <circle cx="178" cy="30" r="3" fill="#FFFFFF"/>
+</svg>

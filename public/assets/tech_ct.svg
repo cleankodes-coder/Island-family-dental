@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="16" fill="#F5F8FC"/>
+  <!-- CT Scanner Rotating Gantry Ring -->
+  <circle cx="100" cy="100" r="70" stroke="#162C54" stroke-width="14"/>
+  <circle cx="100" cy="100" r="54" stroke="#7DAED6" stroke-width="2" stroke-dasharray="6 6"/>
+  <!-- Patient Chinrest / Isocenter -->
+  <circle cx="100" cy="100" r="28" fill="#204270"/>
+  <path d="M92 92C96 88 104 88 108 92C112 96 112 104 108 108C104 112 96 112 92 108C88 104 88 96 92 92Z" fill="#7DAED6"/>
+  <circle cx="100" cy="100" r="3" fill="#FFFFFF"/>
+</svg>

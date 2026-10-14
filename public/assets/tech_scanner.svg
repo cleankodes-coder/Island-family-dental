@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="16" fill="#F5F8FC"/>
+  <!-- 3D Scanner Wand -->
+  <path d="M60 140C50 130 50 110 65 95L110 50C120 40 135 40 145 50L155 60C165 70 165 85 155 95L110 140C95 155 75 155 60 140Z" fill="#162C54" stroke="#7DAED6" stroke-width="2"/>
+  <!-- Optical Scanning Tip -->
+  <path d="M145 50L170 35L175 48L155 60" fill="#204270"/>
+  <!-- 3D Optical Waves -->
+  <path d="M165 25C175 35 185 45 180 60" stroke="#7DAED6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M172 20C185 35 195 48 190 68" stroke="#7DAED6" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round"/>
+</svg>
